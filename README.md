@@ -1,3 +1,4 @@
 # Git Pracitise
 ---
-. Just test git feature 
+* Just test git feature 
+* Update
