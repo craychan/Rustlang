@@ -1,0 +1,12 @@
+/home/raymond/Desktop/Rustlang/build_a_CLI/target/rls/debug/deps/ansi_term-8f6597891107b209.rmeta: /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/lib.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/ansi.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/style.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/difference.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/display.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/write.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/windows.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/debug.rs
+
+/home/raymond/Desktop/Rustlang/build_a_CLI/target/rls/debug/deps/ansi_term-8f6597891107b209.d: /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/lib.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/ansi.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/style.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/difference.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/display.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/write.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/windows.rs /home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/debug.rs
+
+/home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/lib.rs:
+/home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/ansi.rs:
+/home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/style.rs:
+/home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/difference.rs:
+/home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/display.rs:
+/home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/write.rs:
+/home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/windows.rs:
+/home/raymond/.cargo/registry/src/github.com-1ecc6299db9ec823/ansi_term-0.11.0/src/debug.rs:
