@@ -1,5 +1,4 @@
-# Git Pracitise
+# Practical Rustlang by building
 ---
-* Just test git feature 
-* Update
-* Final Test
+
+* Building a CLI - Cat Say

@@ -20,6 +20,10 @@ fn main() {
 
     let eyes = if options.dead {"x"} else{"o"};
 
+    if message.to_lowercase() == "woof" {
+        eprint!("A cat shouldn't bark like a dog.")
+    }
+
     // let message = std::env::args().nth(1)
         // .expect("missing the message. usage: catsay <message>");
 
