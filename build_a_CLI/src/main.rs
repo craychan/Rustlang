@@ -1,6 +1,8 @@
 extern crate structopt;
+extern crate colored;
 
 use structopt::StructOpt;
+use colored::*;
 
 #[derive(StructOpt)]
 struct Option {
@@ -27,10 +29,10 @@ fn main() {
     // let message = std::env::args().nth(1)
         // .expect("missing the message. usage: catsay <message>");
 
-    println!("{}", message);
+    println!("{}", message.bright_yellow().underline().on_purple());
     println!("\\");
     println!(" \\");
     println!("    /\\_/\\");
-    println!("   ( {eye} {eye} )", eye=eyes);
+    println!("   ( {eye} {eye} )", eye=eyes.red().bold());
     println!("   =( I )=");
 }
